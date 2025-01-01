@@ -1,3 +1,5 @@
+package arrays;
+
 public class FindMissingNumber {
     public static int findMissingNumber(int[] nums){
         int n=nums.length;
