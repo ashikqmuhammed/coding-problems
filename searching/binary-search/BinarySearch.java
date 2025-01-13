@@ -1,3 +1,6 @@
+
+// best case 0(1)
+// worst case 0(n)
 // 1=n/2^k
 // k=log2n
 
